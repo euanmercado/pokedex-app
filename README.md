@@ -3,7 +3,7 @@
 A full-stack Pokédex web app built for the **Third Party API Top 3 Challenge** (Team Pokémon), powered by [PokéAPI](https://pokeapi.co).
 
 Live demo: https://pokedex-app-mercado.netlify.app
-Repo: _add your GitHub URL here_
+Repo: https://github.com/euanmercado/pokedex-app.git
 
 ## What it does
 
